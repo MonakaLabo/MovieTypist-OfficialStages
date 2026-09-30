@@ -1,5 +1,26 @@
 {
   "formatVersion": 1,
-  "updatedAt": "2026-09-30T10:53:53Z",
-  "stages": []
+  "updatedAt": "2026-09-30T12:31:07.4323953Z",
+  "stages": [
+    {
+      "id": "049c0a01a50c4987825bc79876014e21",
+      "version": 1,
+      "title": "ミセオト",
+      "author": "Monaka",
+      "comment": "最初の公式ステージです。平均打鍵速度10打/秒超えの超高速曲ではありますが、減速や練習モードを活用してお楽しみください。動画上の歌詞と別で公開されている歌詞に相違があるため、よき程度で歌詞を起こしています。",
+      "url": "https://www.youtube.com/watch?v=bAOA4pgnm2k",
+      "addedAt": "2026-09-30",
+      "updatedAt": "2026-09-30",
+      "note": "公開",
+      "speedAvg": 10.98,
+      "speedMax": 18.09,
+      "lines": 47,
+      "duration": 141,
+      "download": "https://github.com/MonakaLabo/MovieTypist-OfficialStages/releases/download/stages/049c0a01a50c4987825bc79876014e21-v1.mtt",
+      "thumbnail": "https://github.com/MonakaLabo/MovieTypist-OfficialStages/releases/download/stages/049c0a01a50c4987825bc79876014e21-v1.png",
+      "size": 857336,
+      "sha256": "e7894d832fa1c26c9d071de4a344a9dae4c0100d2d2f17cfe4506fb875b41472",
+      "previousSha256": []
+    }
+  ]
 }
