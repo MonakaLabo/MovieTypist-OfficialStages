@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "updatedAt": "2026-10-08T11:57:47.581423Z",
+  "updatedAt": "2026-10-08T13:32:51.0163502Z",
   "stages": [
     {
       "id": "049c0a01a50c4987825bc79876014e21",
@@ -24,23 +24,25 @@
     },
     {
       "id": "cf11dbe5256442eab43f807654d2c363",
-      "version": 1,
+      "version": 2,
       "title": "UNDEAD",
       "author": "Monaka",
       "comment": "平均打鍵速度10打/秒超えの高速曲です。減速や練習モードを活用してお楽しみください。英語版「UNDEAD - English version」もあります。",
       "url": "https://www.youtube.com/watch?v=Jj1_mfUzjOs",
       "addedAt": "2026-10-08",
       "updatedAt": "2026-10-08",
-      "note": "公開",
-      "speedAvg": 10.72,
+      "note": "ルビと表示の修正",
+      "speedAvg": 10.7,
       "speedMax": 18.9,
       "lines": 72,
       "duration": 186.34,
-      "download": "https://github.com/MonakaLabo/MovieTypist-OfficialStages/releases/download/stages/cf11dbe5256442eab43f807654d2c363-v1.mtt",
-      "thumbnail": "https://github.com/MonakaLabo/MovieTypist-OfficialStages/releases/download/stages/cf11dbe5256442eab43f807654d2c363-v1.png",
-      "size": 565487,
-      "sha256": "4a49664fbb141a8bc99001032b8aebaf327e26363cc7f7ebe4dc5b3b4321dd8b",
-      "previousSha256": []
+      "download": "https://github.com/MonakaLabo/MovieTypist-OfficialStages/releases/download/stages/cf11dbe5256442eab43f807654d2c363-v2.mtt",
+      "thumbnail": "https://github.com/MonakaLabo/MovieTypist-OfficialStages/releases/download/stages/cf11dbe5256442eab43f807654d2c363-v2.png",
+      "size": 565471,
+      "sha256": "2a5cc485527ade0bca933c97a1f847ca96d026e34d47956600d198c29ccc3a84",
+      "previousSha256": [
+        "4a49664fbb141a8bc99001032b8aebaf327e26363cc7f7ebe4dc5b3b4321dd8b"
+      ]
     },
     {
       "id": "3027128a7c62499dab331d53576573c9",
