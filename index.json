@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "updatedAt": "2026-10-08T11:55:08.1759262Z",
+  "updatedAt": "2026-10-08T11:57:47.581423Z",
   "stages": [
     {
       "id": "049c0a01a50c4987825bc79876014e21",
@@ -44,23 +44,25 @@
     },
     {
       "id": "3027128a7c62499dab331d53576573c9",
-      "version": 1,
+      "version": 2,
       "title": "UNDEAD - English version",
       "author": "Monaka",
-      "comment": "「UNDEAD」英語版のステージです。平均打鍵速度17打/秒超え、最も速いラインでは28打/秒を超える、バカみたいな難易度を誇ります。記号・スペースをスキップすると平均14打/秒台まで下がります。減速や練習モードも活用してお楽しみください。",
+      "comment": "「UNDEAD」英語版のステージです。平均打鍵速度17打/秒超え、最も速いラインでは27打/秒を超える、バカみたいな難易度を誇ります。記号・スペースをスキップすると平均14打/秒台まで下がります。減速や練習モードも活用してお楽しみください。",
       "url": "https://www.youtube.com/watch?v=tEelcVZ4Q7Y",
       "addedAt": "2026-10-08",
       "updatedAt": "2026-10-08",
-      "note": "公開",
+      "note": "コメントの修正",
       "speedAvg": 17.7,
       "speedMax": 27.33,
       "lines": 72,
       "duration": 186.34,
-      "download": "https://github.com/MonakaLabo/MovieTypist-OfficialStages/releases/download/stages/3027128a7c62499dab331d53576573c9-v1.mtt",
-      "thumbnail": "https://github.com/MonakaLabo/MovieTypist-OfficialStages/releases/download/stages/3027128a7c62499dab331d53576573c9-v1.png",
-      "size": 561245,
-      "sha256": "929277969f2fadab0616f040923827608241361206d8cf3ab218be8586d6f978",
-      "previousSha256": []
+      "download": "https://github.com/MonakaLabo/MovieTypist-OfficialStages/releases/download/stages/3027128a7c62499dab331d53576573c9-v2.mtt",
+      "thumbnail": "https://github.com/MonakaLabo/MovieTypist-OfficialStages/releases/download/stages/3027128a7c62499dab331d53576573c9-v2.png",
+      "size": 561244,
+      "sha256": "b9aa7a13dc5349706b3052a218e8ee5fc267ce84e854479ae1642320b4bf163b",
+      "previousSha256": [
+        "929277969f2fadab0616f040923827608241361206d8cf3ab218be8586d6f978"
+      ]
     }
   ]
 }
